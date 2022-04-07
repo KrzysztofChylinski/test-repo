@@ -1,0 +1,104 @@
+
+/* Style dla tekstów rozpisane poniżej */
+.tittleXXL{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    font-size: 6rem;
+    line-height: 6rem;
+    letter-spacing: -1,5px;
+    padding: 1px 0 3px;
+}
+
+.tittleXL{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    font-size: 4rem;
+    line-height: 4rem;
+    letter-spacing: -0.5px;
+    padding: 1px 0px 3px;
+	margin: 0px;
+}
+
+.tittleL{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    font-size: 3rem;
+    line-height: 3rem;
+    letter-spacing: 0px;
+    padding: 3px 0px 1px;
+}
+
+.tittleM{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    font-size: 2rem;
+    line-height: 2,25rem;
+    letter-spacing: 0,25px;
+    padding: 2px 0px;
+}
+
+.tittleS{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    font-size: 1,5rem;
+    line-height: 1,75rem;
+    letter-spacing: 0px;
+    padding: 1px 0px 3px;
+}
+.tittleXS{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 500;
+    font-size: 1,25rem;
+    line-height: 1,5rem;
+    letter-spacing: 0.15px;
+    padding: 1px 0px 3px;
+}
+        
+
+.subtittleNormal{
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+.subtittleSmall{
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+.buttonText{
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+.overline{
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+.bodyNormal{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    letter-spacing: 0,5px;
+    padding: 0;
+}
+
+.bodyMedium{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 0,25px;
+    padding-top: 1px;
+    padding-bottom: 3px;
+}
+
+.bodySmall{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+    letter-spacing: 4px;
+    padding: 0;
+}
